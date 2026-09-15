@@ -1,8 +1,8 @@
 {
   "benchmarks": {
-    "ring_buffer_push_pop_ops_sec": 4862640.7301,
-    "lru_cache_hit_latency_ns": 83.4799,
-    "eviction_amortized_overhead_ns": 43.7833
+    "ring_buffer_push_pop_ops_sec": 4943654.4742,
+    "lru_cache_hit_latency_ns": 82.6393,
+    "eviction_amortized_overhead_ns": 43.7803
   },
   "status": "passing",
   "reliability_score": 99.7,

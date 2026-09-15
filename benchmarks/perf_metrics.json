@@ -1,10 +1,10 @@
 {
   "benchmarks": {
-    "ring_buffer_push_pop_ops_sec": 4844157.6615,
-    "lru_cache_hit_latency_ns": 84.1603,
-    "eviction_amortized_overhead_ns": 44.2755
+    "ring_buffer_push_pop_ops_sec": 4814691.1403,
+    "lru_cache_hit_latency_ns": 83.4643,
+    "eviction_amortized_overhead_ns": 44.6142
   },
   "status": "passing",
   "reliability_score": 99.7,
-  "last_evaluated": "2026-09-15T10:32:30Z"
+  "last_evaluated": "2026-09-15T10:32:31Z"
 }

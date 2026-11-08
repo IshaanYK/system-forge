@@ -1,12 +1,12 @@
 {
   "benchmarks": {
-    "ring_buffer_push_pop_ops_sec": 3310115.6002,
-    "lru_cache_hit_latency_ns": 76.3467,
-    "eviction_amortized_overhead_ns": 41.5447
+    "ring_buffer_push_pop_ops_sec": 3285325.1028,
+    "lru_cache_hit_latency_ns": 77.1641,
+    "eviction_amortized_overhead_ns": 41.845
   },
   "status": "passing",
   "reliability_score": 99.7,
-  "last_evaluated": "2026-11-08T16:14:27Z",
-  "evaluation_cycle": 3921,
-  "telemetry_signature": "bb7be812ecd8"
+  "last_evaluated": "2026-11-08T15:59:27Z",
+  "evaluation_cycle": 3922,
+  "telemetry_signature": "c40a95512619"
 }
